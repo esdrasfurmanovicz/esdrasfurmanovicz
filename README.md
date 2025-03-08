@@ -1,7 +1,7 @@
 ### Eae, blz?! Eu sou o Esdras Furmanovicz
 
 <!-- - 🔭 Hoje trabalho com Desenvolvimento Web
-- 🌱 Estudando PHP/HTML/CSS/JavaScript/C#
+- 🌱 Estudando PHP/HTML/CSS/JavaScript
 - 📫 Contate-me no email: esdras.furmanovicz07@gmail.com
 - 😄 Pronouns: ele/dele
 
