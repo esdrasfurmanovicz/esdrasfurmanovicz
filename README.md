@@ -1,15 +1,5 @@
 <h2 align="left">Eae blz? Meu nome é Esdras Furmanovicz</h2>
 
-###
-
-<div align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=esdrasfurmanovicz&count_private=true&theme=dracula&hide_border=false&cache_seconds=3600" height="150" alt="stats graph"  />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=esdrasfurmanovicz&layout=compact&theme=dracula&hide_border=false&cache_seconds=3600" height="150" alt="languages graph"  />
-
-</div>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -31,6 +21,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
 </div>
 
+<div align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=esdrasfurmanovicz&layout=compact&theme=dracula&hide_border=false&cache_seconds=3600" height="150" alt="languages graph"  />
+</div>
+
+<h2 align="left">Contatos</h2>
+
 ###
 
 <div align="left">
@@ -39,4 +35,6 @@
   <a target="_blank" href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCKCGmKXscjpfZnVkwtbSmtRTsSGqVCnrcbvskTczwDmmXRNjCLJBMkxQFWxQTmkNdrgKQSB"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
   <a target="_blank" href="https://www.linkedin.com/in/esdras-furmanovicz/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
 </div>
+
+
 
