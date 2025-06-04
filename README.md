@@ -1,5 +1,7 @@
-<h2 align="left">Eae blz? Meu nome é Esdras Furmanovicz</h2>
 
+# 👋 Olá! Eu sou o Esdras
+
+Sou um desenvolvedor web full-stack apaixonado por resolver problemas com código. Atualmente trabalho com PHP e Laravel na empresa Sismetro e tenho interesse em desenvolvimento back-end, sistemas embarcados e projetos que impactam a vida real.
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -21,20 +23,28 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
 </div>
 
-<div align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=esdrasfurmanovicz&layout=compact&theme=dracula&hide_border=false&cache_seconds=3600" height="150" alt="languages graph"  />
-</div>
+## 🚀 Habilidades
 
-<h2 align="left">Contatos</h2>
+- PHP, Laravel, JavaScript, jQuery, HTML, CSS, Bootstrap
+- MySQL, Docker
+- Git, GitHub
+- Experiência com sistemas embarcados (ESP32)
 
-###
+## 📌 Projetos em Destaque
 
-<div align="left">
-  <a target="_blank" href="https://www.instagram.com/esdrasf.bat/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
-  <!-- <a href=""><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a> -->
-  <a target="_blank" href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCKCGmKXscjpfZnVkwtbSmtRTsSGqVCnrcbvskTczwDmmXRNjCLJBMkxQFWxQTmkNdrgKQSB"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
-  <a target="_blank" href="https://www.linkedin.com/in/esdras-furmanovicz/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
-</div>
+- [SIF - Sistema de Irrigação Facilitado](https://github.com/sistema-irrigacao-facilitado)
+  Projeto completo de automação para irrigação, com backend em PHP + MySQL e integração com ESP32.
 
+- [Sistema de Biblioteca](https://github.com/esdrasfurmanovicz/sistema-biblioteca)  
+  Sistema completo de gerenciamento de biblioteca com PHP puro + MySQL.
 
+- [Landing Page Barbearia](https://github.com/esdrasfurmanovicz/landingpage-barbearia/tree/main)  
+  Projeto visual com foco em design e responsividade.
+
+## 🌱 Atualmente estudando
+- Inglês técnico
+- Laravel Avançado
+- Segurança em aplicações web
+
+📫 Entre em contato comigo pelo [LinkedIn](https://www.linkedin.com/in/esdras-furmanovicz)
 
