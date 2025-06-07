@@ -33,7 +33,7 @@ Sou um desenvolvedor web full-stack apaixonado por resolver problemas com códig
 ## 📌 Projetos em Destaque
 
 - [SIF - Sistema de Irrigação Facilitado](https://github.com/sistema-irrigacao-facilitado)
-  Projeto completo de automação para irrigação, com backend em PHP + MySQL e integração com ESP32.
+  Projeto completo de automação para irrigação com ESP32, originalmente feito com backend em PHP + MySQL, com repositorio público em Laravel.
 
 - [Sistema de Biblioteca](https://github.com/esdrasfurmanovicz/sistema-biblioteca)  
   Sistema completo de gerenciamento de biblioteca com PHP puro + MySQL.
