@@ -46,6 +46,6 @@ Sou um desenvolvedor web full-stack apaixonado por resolver problemas com códig
 - Laravel Avançado
 - Segurança em aplicações web
 
-##### 📫 Entre em contato comigo pelo [LinkedIn](https://www.linkedin.com/in/esdras-furmanovicz)
-##### 💡 Visite meu [Portfolio](https://furmanovicz.com.br/)
+#### 📫 Entre em contato comigo pelo [LinkedIn](https://www.linkedin.com/in/esdras-furmanovicz)
+#### 💡 Visite meu [Portfolio](https://furmanovicz.com.br/)
 
