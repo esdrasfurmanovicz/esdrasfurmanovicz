@@ -42,7 +42,6 @@ Trabalho diariamente com regras de negócio, banco de dados, integrações e evo
 ## 📌 Projetos em Destaque
 
 ### 📄 DocCraft: editor de documentos (canvas e texto rico)  
-<a href="https://esdrasfurmanovicz.github.io/doccraft/"><img src="assets/doccraft.jpg" alt="DocCraft: editor de documentos com canvas livre e texto rico" width="100%" /></a>
 
 🔗 **Demo online:** https://esdrasfurmanovicz.github.io/doccraft/  
 🔗 **Repositório:** https://github.com/esdrasfurmanovicz/doccraft  
