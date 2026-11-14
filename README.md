@@ -41,6 +41,18 @@ Trabalho diariamente com regras de negócio, banco de dados, integrações e evo
 
 ## 📌 Projetos em Destaque
 
+### 📄 DocCraft: editor de documentos (canvas e texto rico)  
+<a href="https://esdrasfurmanovicz.github.io/doccraft/"><img src="assets/doccraft.jpg" alt="DocCraft: editor de documentos com canvas livre e texto rico" width="100%" /></a>
+
+🔗 **Demo online:** https://esdrasfurmanovicz.github.io/doccraft/  
+🔗 **Repositório:** https://github.com/esdrasfurmanovicz/doccraft  
+⬇️ **Baixar o app (Windows, macOS e Linux):** https://github.com/esdrasfurmanovicz/doccraft/releases/latest  
+
+Editor de documentos com **canvas livre** (elementos aninhados, camadas e propriedades completas) e **texto rico** (tabelas, imagens e menu de blocos), com exportação para **PDF, HTML e Markdown**. Roda no navegador ou como **app desktop**, sem login.  
+Feito com **React, TypeScript, Node.js, Electron e SQLite**.
+
+---
+
 ### 🌱 SIF – Sistema de Irrigação Facilitado  
 🔗 https://github.com/sistema-irrigacao-facilitado  
 
