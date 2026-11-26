@@ -62,7 +62,9 @@ Feito com **PHP, Laravel, Tailwind CSS e MySQL**.
 ---
 
 ### 🌱 SIF: Sistema de Irrigação Facilitado
-🔗 https://github.com/sistema-irrigacao-facilitado
+
+🔗 **Demo interativa (3D, esquema e guia de montagem):** https://sistema-irrigacao-facilitado.github.io/laravel-sif/
+🔗 **Repositório:** https://github.com/sistema-irrigacao-facilitado/laravel-sif
 
 Sistema completo de automação de irrigação utilizando **ESP32**, com backend em **PHP + MySQL** e versão estruturada em **Laravel**.
 O projeto envolveu integração entre hardware e software, coleta de dados, automação e controle remoto.
